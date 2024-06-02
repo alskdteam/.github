@@ -1,4 +1,4 @@
-![화면 기록 2024-06-03 오전 12 12 14](https://github.com/alskdteam/Organic_groupware/assets/153148788/a6e38ebf-406f-42aa-a1fe-a69b6c3c763f)## 프로젝트 제목
+![화면 기록 2024-06-03 오전 12 12 14](https://github.com/alskdteam/Organic_groupware/assets/153148788/a6e38ebf-406f-42aa-a1fe-a69b6c3c763f)
 <h1>🍏 Organic_groupware🍏</h1>
 <br>
 <p align="center">
